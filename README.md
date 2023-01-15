@@ -1,4 +1,4 @@
-<h1 align="center"> Bem Vindo ao meu bequinho da droga 👋 </h1>
+<h1 align="center"> bem bindo ao meu bequinho da droga 👋 </h1>
 
 <h1 align="center">Olá 👋, Meu nome é Cristhian Felipe</h1>
 <h3 align="center">aprendendo front e back na alura</h3>
