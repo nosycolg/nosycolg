@@ -1,5 +1,8 @@
 # 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙩𝙤 𝙢𝙮 𝙋𝙧𝙤𝙛𝙞𝙡𝙚 👋
 
+<h1 align="center">Olá 👋, Meu nome é Cristhian Felipe</h1>
+<h3 align="center">Aprendendo front e back na alura</h3>
+
 
 
 
