@@ -1,6 +1,6 @@
 
 <h1 align="center">Olá 👋, Meu nome é Cristhian Felipe</h1>
-<h3 align="center">aprendendo front e back na alura</h3>
+<h3 align="center">Cada dia evoluindo mais!</h3>
 
 
 
