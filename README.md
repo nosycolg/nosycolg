@@ -1,11 +1,10 @@
 <h2 align="center">Olá 👋, Meu nome é Cristhian Felipe</h2>
 <h3 align="center">Cada dia evoluindo mais!</h3>
 
-<img align="left" height="200" src="https://media.licdn.com/dms/image/D4D03AQFV7DnPw8VoeQ/profile-displayphoto-shrink_200_200/0/1696619751143?e=1710979200&v=beta&t=MFDsOko_STeUWo8zWYFViB5YTFV7iqPQ8CDSgg4pPLQ"  />
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo"  />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
