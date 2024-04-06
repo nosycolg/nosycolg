@@ -11,6 +11,10 @@
 
 ###
 
+![coverImg](https://github.com/nosycolg/nosycolg/assets/99344786/481beb6c-62a8-446c-b36b-7ff08ea3f25e)
+
+###
+
 <div align="center">
   
 [![curriculum](https://img.shields.io/badge/curriculum-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
